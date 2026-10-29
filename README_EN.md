@@ -8,16 +8,31 @@ An **Industrial Engineering student specializing in Data Analytics**. I am passi
 
 ---
 
-## 🚀 Featured Projects
+# Colombian Tourism Analytical Observatory 🇨🇴
 
-### 1. 🇨🇴 Colombia Tourism Analytics Observatory
-A project focused on auditing, cleaning, and structuring large-scale datasets from the national tourism sector to ensure data reliability for operational and business decision-making.
+This repository contains the development and analysis pipeline for building the master database of the tourism sector in Colombia, integrating official data sources (MinCIT, DANE, Banco de la República, Migración Colombia, and Datos.gov.co).
 
-* **🎯 Problem Solved:** Public databases often contain formatting errors, misinterpreted missing values, and anomalies that distort core operational metrics. This project standardizes the data to generate accurate tourism indicators.
-* **⚙️ Tech Stack & Libraries:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
-* **📁 Project Structure:**
-  * **Stage 1 (Preprocessing & Data Cleaning):** [View Code on GitHub](https://github.com/carlostorres970/CarlosTorres/blob/main/API_Branchos_API.ipynb) *(Advanced handling of missing values based on business logic, Interquartile Range - IQR outlier treatment, and categorical variable standardization).*
-  * **Stage 2 (Exploratory Data Analysis & Visualization):** *(In progress)*
+---
+
+## 📂 Notebooks Structure & Links
+
+The project is divided into two main phases executed via Google Colab:
+
+### 1. Master Database Construction
+* **Description:** Extracts, cleans, transforms, and unifies primary sources into a single quarterly master table (2015–2024).
+* **Direct Colab Link:** [👉 Open Notebook 1 (Construction)](YOUR_LINK_1_HERE)
+
+### 2. Preprocessing, Standardization & Diagnostics
+* **Description:** Performs missing values audits, variable standardization, duplicate verification, and analytical preparation of the master table.
+* **Direct Colab Link:** [👉 Open Notebook 2 (Preprocessing)](YOUR_LINK_2_HERE)
+
+---
+
+## 📊 Data Sources
+* **MinCIT:** Tourism statistics and macroeconomic indicators.
+* **DANE:** Sectoral occupancy (GEIH) and Value Added / GDP.
+* **Banco de la República:** Exchange Rate (TRM).
+* **Migración Colombia / Datos.gov.co:** Non-resident visitor arrivals, purposes, regions, and continent of origin.
 
 ### 2. 👟 Automated Data Extraction via API (E-commerce)
 Mass extraction and automated structuring of product data (prices, sizes, brands, and links) from an online store built on the **VTEX** platform using HTTP requests and JSON data handling.
