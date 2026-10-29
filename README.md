@@ -22,7 +22,7 @@ El proyecto se divide en dos fases principales ejecutadas a través de Google Co
 
 ### 1. Construcción de la Base de Datos Maestra
 * **Descripción:** Extrae, limpia, transforma y unifica las fuentes primarias en una única tabla maestra trimestral (2015-2024).
-* **Enlace directo a Colab:** [👉 Abrir Notebook 1 (Construcción)](AQUÍ_PEGAS_EL_LINK_1)
+* **Enlace directo a Colab:** [👉 Abrir Notebook 1 (Construcción)](https://github.com/carlostorres970/CarlosTorres/blob/main/Observatorio.ipynb)
 
 ### 2. Preprocesamiento, Estandarización y Diagnóstico
 * **Descripción:** Realiza la auditoría de nulos, estandarización de variables, verificación de duplicados y preparación analítica de la tabla maestra.
