@@ -1,4 +1,4 @@
-🌐 **Languages / Idiomas:** [Español](README.md) | **English**
+**Languages / Idiomas:** [Español](README.md) | **English**
 
 ---
 
