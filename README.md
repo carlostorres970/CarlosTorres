@@ -62,4 +62,4 @@ Extracción masiva y estructuración automatizada de datos de productos (precios
 
 📫 **Contacto:**
 * [LinkedIn](www.linkedin.com/in/carlos-torres-ba657b245)
-* [Correo Electrónico](mailto:tu-correo@email.com)
+* [Correo Electrónico](mailto:oliverostorresl@gmail.com)
