@@ -7,6 +7,7 @@
 An **Industrial Engineering student specializing in Data Analytics**. I am passionate about process optimization, data-driven decision-making, and transforming complex datasets into actionable business intelligence using Python and analytical tools.
 
 ---
+# 🚀 Featured Projects
 
 ## Colombian Tourism Analytical Observatory 🇨🇴
 
@@ -20,11 +21,11 @@ The project is divided into two main phases executed via Google Colab:
 
 ### 1. Master Database Construction
 * **Description:** Extracts, cleans, transforms, and unifies primary sources into a single quarterly master table (2015–2024).
-* **Direct Colab Link:** [👉 Open Notebook 1 (Construction)](YOUR_LINK_1_HERE)
+* **Direct Colab Link:** [👉 Open Notebook 1 (Construction)](https://github.com/carlostorres970/CarlosTorres/blob/main/Observatorio.ipynb)
 
 ### 2. Preprocessing, Standardization & Diagnostics
 * **Description:** Performs missing values audits, variable standardization, duplicate verification, and analytical preparation of the master table.
-* **Direct Colab Link:** [👉 Open Notebook 2 (Preprocessing)](YOUR_LINK_2_HERE)
+* **Direct Colab Link:** [👉 Open Notebook 2 (Preprocessing)](https://github.com/carlostorres970/CarlosTorres/blob/main/Preparacion_de_datos_observatorio_turismo.ipynb)
 
 ---
 
@@ -39,7 +40,7 @@ Mass extraction and automated structuring of product data (prices, sizes, brands
 
 * **🎯 Problem Solved:** Eliminates reliance on fragile HTML web scraping by leveraging official public APIs, implementing efficient block pagination, and drastically optimizing extraction time by retrieving full product details in a single request.
 * **⚙️ Tech Stack & Libraries:** `Python`, `Requests`, `Pandas`, `JSON`.
-* **📁 Project Link:** [View Code on GitHub](#)
+* **📁 Project Link:** [View Code on GitHub](https://github.com/carlostorres970/CarlosTorres/blob/main/API_Branchos_API.ipynb)
 
 ---
 
@@ -59,5 +60,5 @@ Mass extraction and automated structuring of product data (prices, sizes, brands
 ---
 
 📫 **Connect with me:**
-* [LinkedIn](https://linkedin.com/in/your-profile)
+* [LinkedIn](www.linkedin.com/in/carlos-torres-ba657b245)
 * [Email](mailto:your-email@email.com)
