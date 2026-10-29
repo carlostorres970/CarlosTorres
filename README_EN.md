@@ -60,5 +60,5 @@ Mass extraction and automated structuring of product data (prices, sizes, brands
 ---
 
 📫 **Connect with me:**
-* [LinkedIn](www.linkedin.com/in/carlos-torres-ba657b245)
-* [Email](mailto:your-email@email.com)
+* [LinkedIn](https://www.linkedin.com/in/carlos-torres-ba657b245/)
+* [Email](https://mail.google.com/mail/?view=cm&fs=1&to=tu-correo@example.com&su=Asunto%20del%20observatorio&body=Hello,%20we%20are%20interested%20in%20your%20professional%20profile.)
