@@ -8,7 +8,7 @@ An **Industrial Engineering student specializing in Data Analytics**. I am passi
 
 ---
 
-# Colombian Tourism Analytical Observatory 🇨🇴
+## Colombian Tourism Analytical Observatory 🇨🇴
 
 This repository contains the development and analysis pipeline for building the master database of the tourism sector in Colombia, integrating official data sources (MinCIT, DANE, Banco de la República, Migración Colombia, and Datos.gov.co).
 
