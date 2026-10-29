@@ -39,9 +39,9 @@ El proyecto se divide en dos fases principales ejecutadas a través de Google Co
 ### 2.  Extracción Automatizada de Datos vía API (E-commerce)
 Extracción masiva y estructuración automatizada de datos de productos (precios, tallas, marcas y enlaces) desde una tienda virtual construida sobre la plataforma **VTEX** mediante peticiones HTTP y manejo de formato JSON.
 
-** ¿Qué problema resuelve?:** Automatiza la recolección de información de catálogos web sin depender de scraping frágil de HTML, implementando paginación eficiente de bloques y optimizando el tiempo de extracción al evitar múltiples saltos por producto.
-** Tecnologías y librerías:** `Python`, `Requests` (para consumo de APIs), `Pandas`, `JSON`.
-** Enlace al código:** [Ver Notebook en GitHub](https://github.com/carlostorres970/CarlosTorres/blob/main/API_Branchos_API.ipynb)
+**¿Qué problema resuelve?:** Automatiza la recolección de información de catálogos web sin depender de scraping frágil de HTML, implementando paginación eficiente de bloques y optimizando el tiempo de extracción al evitar múltiples saltos por producto.
+**Tecnologías y librerías:** `Python`, `Requests` (para consumo de APIs), `Pandas`, `JSON`.
+**Enlace al código:** [Ver Notebook en GitHub](https://github.com/carlostorres970/CarlosTorres/blob/main/API_Branchos_API.ipynb)
 
 ---
 
