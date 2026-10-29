@@ -10,14 +10,31 @@ Estudiante de **Ingeniería Industrial con énfasis en Análisis de Datos**. Me 
 
 ## 🚀 Proyectos Destacados
 
-### 1. 🇨🇴 Observatorio Analítico del Turismo en Colombia
-Un proyecto enfocado en auditar, limpiar y estructurar bases de datos masivas del sector turístico nacional para garantizar la confiabilidad en la toma de decisiones y análisis de procesos.
+# Observatorio Analítico del Turismo en Colombia 🇨🇴
 
-* **🎯 ¿Qué problema resuelve?:** Las bases de datos públicas suelen presentar inconsistencias, errores de formato, valores nulos malinterpretados y registros atípicos que distorsionan las métricas clave. Este proyecto estandariza los datos para generar indicadores reales e insumos confiables.
-* **⚙️ Tecnologías y librerías:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
-* **📁 Estructura del proyecto:**
-  * **Etapa 1 (Preprocesamiento y Limpieza):** [Ver Código en GitHub](#) *(Tratamiento avanzado de nulos según lógica de negocio, detección y manejo de outliers con el rango intercuartílico - IQR, y estandarización de variables categóricas).*
-  * **Etapa 2 (Análisis Exploratorio y Visualización):** *(En desarrollo)*
+Este repositorio contiene el pipeline de desarrollo y análisis para la construcción de la base de datos maestra del sector turístico en Colombia, integrando fuentes oficiales (MinCIT, DANE, Banco de la República, Migración Colombia y Datos.gov.co).
+
+---
+
+## 📂 Estructura de Notebooks y Enlaces
+
+El proyecto se divide en dos fases principales ejecutadas a través de Google Colab:
+
+### 1. Construcción de la Base de Datos Maestra
+* **Descripción:** Extrae, limpia, transforma y unifica las fuentes primarias en una única tabla maestra trimestral (2015-2024).
+* **Enlace directo a Colab:** [👉 Abrir Notebook 1 (Construcción)](AQUÍ_PEGAS_EL_LINK_1)
+
+### 2. Preprocesamiento, Estandarización y Diagnóstico
+* **Descripción:** Realiza la auditoría de nulos, estandarización de variables, verificación de duplicados y preparación analítica de la tabla maestra.
+* **Enlace directo a Colab:** [👉 Abrir Notebook 2 (Preprocesamiento)](AQUÍ_PEGAS_EL_LINK_2)
+
+---
+
+## 📊 Fuentes de Datos
+* **MinCIT:** Estadísticas de turismo e indicadores macroeconómicos.
+* **DANE:** Ocupación sectorial (GEIH) y Valor Agregado / PIB.
+* **Banco de la República:** Tasa Representativa del Mercado (TRM).
+* **Migración Colombia / Datos.gov.co:** Llegada de visitantes no residentes, motivos, regiones y procedencia por continentes.
 
 ### 2. 👟 Extracción Automatizada de Datos vía API (E-commerce)
 Extracción masiva y estructuración automatizada de datos de productos (precios, tallas, marcas y enlaces) desde una tienda virtual construida sobre la plataforma **VTEX** mediante peticiones HTTP y manejo de formato JSON.
