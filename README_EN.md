@@ -14,7 +14,7 @@ This repository contains the development and analysis pipeline for building the 
 
 ---
 
-## 📂 Notebooks Structure & Links
+### 📂 Notebooks Structure & Links
 
 The project is divided into two main phases executed via Google Colab:
 
@@ -34,7 +34,7 @@ The project is divided into two main phases executed via Google Colab:
 * **Banco de la República:** Exchange Rate (TRM).
 * **Migración Colombia / Datos.gov.co:** Non-resident visitor arrivals, purposes, regions, and continent of origin.
 
-### 2. 👟 Automated Data Extraction via API (E-commerce)
+## 2. 👟 Automated Data Extraction via API (E-commerce)
 Mass extraction and automated structuring of product data (prices, sizes, brands, and links) from an online store built on the **VTEX** platform using HTTP requests and JSON data handling.
 
 * **🎯 Problem Solved:** Eliminates reliance on fragile HTML web scraping by leveraging official public APIs, implementing efficient block pagination, and drastically optimizing extraction time by retrieving full product details in a single request.
