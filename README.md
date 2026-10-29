@@ -24,7 +24,7 @@ Extracción masiva y estructuración automatizada de datos de productos (precios
 
 * **🎯 ¿Qué problema resuelve?:** Automatiza la recolección de información de catálogos web sin depender de scraping frágil de HTML, implementando paginación eficiente de bloques y optimizando el tiempo de extracción al evitar múltiples saltos por producto.
 * **⚙️ Tecnologías y librerías:** `Python`, `Requests` (para consumo de APIs), `Pandas`, `JSON`.
-* **📁 Enlace al código:** [Ver Notebook en GitHub](#)
+* **📁 Enlace al código:** [Ver Notebook en GitHub](https://github.com/carlostorres970/CarlosTorres/blob/main/API_Branchos_API.ipynb)
 
 ---
 
