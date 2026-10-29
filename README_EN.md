@@ -16,7 +16,7 @@ A project focused on auditing, cleaning, and structuring large-scale datasets fr
 * **🎯 Problem Solved:** Public databases often contain formatting errors, misinterpreted missing values, and anomalies that distort core operational metrics. This project standardizes the data to generate accurate tourism indicators.
 * **⚙️ Tech Stack & Libraries:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
 * **📁 Project Structure:**
-  * **Stage 1 (Preprocessing & Data Cleaning):** [View Code on GitHub](#) *(Advanced handling of missing values based on business logic, Interquartile Range - IQR outlier treatment, and categorical variable standardization).*
+  * **Stage 1 (Preprocessing & Data Cleaning):** [View Code on GitHub](https://github.com/carlostorres970/CarlosTorres/blob/main/API_Branchos_API.ipynb) *(Advanced handling of missing values based on business logic, Interquartile Range - IQR outlier treatment, and categorical variable standardization).*
   * **Stage 2 (Exploratory Data Analysis & Visualization):** *(In progress)*
 
 ### 2. 👟 Automated Data Extraction via API (E-commerce)
