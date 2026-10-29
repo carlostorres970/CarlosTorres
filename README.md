@@ -26,7 +26,7 @@ El proyecto se divide en dos fases principales ejecutadas a través de Google Co
 
 ### 2. Preprocesamiento, Estandarización y Diagnóstico
 * **Descripción:** Realiza la auditoría de nulos, estandarización de variables, verificación de duplicados y preparación analítica de la tabla maestra.
-* **Enlace directo a Colab:** [👉 Abrir Notebook 2 (Preprocesamiento)](AQUÍ_PEGAS_EL_LINK_2)
+* **Enlace directo a Colab:** [👉 Abrir Notebook 2 (Preprocesamiento)](https://github.com/carlostorres970/CarlosTorres/blob/main/Preparacion_de_datos_observatorio_turismo.ipynb)
 
 ---
 
