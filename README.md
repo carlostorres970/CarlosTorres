@@ -2,44 +2,44 @@
 
 ---
 
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola! Soy Luis Carlos 👋
 
-Soy **Analista / Científica de Datos** apasionada por transformar datos complejos en información clara y útil para la toma de decisiones estratégicas. Me especializo en el uso de Python, limpieza de datos y visualización.
+Estudiante de **Ingeniería Industrial con énfasis en Análisis de Datos**. Me apasiona optimizar procesos, mejorar la toma de decisiones y transformar datos complejos en información estratégica para los negocios mediante el uso de Python y herramientas analíticas.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
 ### 1. 🇨🇴 Observatorio Analítico del Turismo en Colombia
-Un proyecto enfocado en auditar, limpiar y estructurar bases de datos masivas del sector turístico nacional para garantizar la confiabilidad en futuros análisis de negocio.
+Un proyecto enfocado en auditar, limpiar y estructurar bases de datos masivas del sector turístico nacional para garantizar la confiabilidad en la toma de decisiones y análisis de procesos.
 
-* **🎯 ¿Qué problema resuelve?:** Las bases de datos públicas suelen venir con errores de formato, valores nulos malinterpretados y registros atípicos que distorsionan las métricas. Este proyecto estandariza los datos para obtener indicadores reales.
+* **🎯 ¿Qué problema resuelve?:** Las bases de datos públicas suelen presentar inconsistencias, errores de formato, valores nulos malinterpretados y registros atípicos que distorsionan las métricas clave. Este proyecto estandariza los datos para generar indicadores reales e insumos confiables.
 * **⚙️ Tecnologías y librerías:** `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`.
 * **📁 Estructura del proyecto:**
-  * **Etapa 1 (Preprocesamiento y Limpieza):** [Ver Código en GitHub](#) *(Tratamiento avanzado de nulos según lógica de negocio, detección y manejo de outliers usando el rango intercuartílico - IQR, y estandarización de variables categóricas).*
-  * **Etapa 2 (Análisis Exploratorio - EDA):** *(Próximamente)*
+  * **Etapa 1 (Preprocesamiento y Limpieza):** [Ver Código en GitHub](#) *(Tratamiento avanzado de nulos según lógica de negocio, detección y manejo de outliers con el rango intercuartílico - IQR, y estandarización de variables categóricas).*
+  * **Etapa 2 (Análisis Exploratorio y Visualización):** *(En desarrollo)*
 
 ### 2. 📊 [Nombre de tu Segundo Proyecto]
-* **Descripción:** [Breve descripción de qué hace tu segundo proyecto, qué datos usa y qué objetivo tiene].
-* **Enlace:** [Ver Repositorio / Código](#)
+* **Descripción:** [Breve descripción del problema de ingeniería/negocio que resuelve tu segundo proyecto y qué herramientas utilizas].
+* **Enlace:** [Ver proyecto](#)
 
 ---
 
-## 💡 Lo que buscan los reclutadores (Mi enfoque)
-* **Calidad de datos:** Entiendo que un buen modelo o reporte depende 80% de una limpieza y validación rigurosa previa.
-* **Pensamiento crítico:** No solo reemplazo nulos por promedios; analizo el *por qué* faltan los datos según el contexto del negocio.
-* **Código limpio y documentado:** Mis scripts están comentados paso a paso para facilitar la lectura y el trabajo en equipo.
+## 💡 Lo que aportan mi perfil e ingeniería a un equipo
+* **Visión de procesos y negocio:** Como estudiante de Ingeniería Industrial, no solo analizo datos; entiendo el flujo de trabajo, la optimización de recursos y el contexto detrás de los números.
+* **Calidad y rigor en los datos:** Priorizo una limpieza y validación metodológica rigurosa antes de proceder a cualquier modelado o dashboard.
+* **Criterio analítico:** Aplico lógica de negocio para gestionar datos faltantes y atípicos en lugar de aplicar soluciones genéricas.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 * **Lenguajes:** Python, SQL
-* **Librerías de Análisis:** Pandas, NumPy
-* **Visualización:** Matplotlib, Seaborn, Power BI (opcional)
-* **Herramientas:** Git, GitHub, Jupyter Notebooks, Google Colab
+* **Análisis y Datos:** Pandas, NumPy
+* **Visualización:** Matplotlib, Seaborn
+* **Herramientas & Entornos:** Git, GitHub, Jupyter Notebooks, Google Colab
 
 ---
 
-📫 **¿Conectamos?**
+📫 **Contacto:**
 * [LinkedIn](https://linkedin.com/in/tu-usuario)
 * [Correo Electrónico](mailto:tu-correo@email.com)
