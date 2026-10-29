@@ -8,9 +8,9 @@ Estudiante de **Ingeniería Industrial con énfasis en Análisis de Datos**. Me 
 
 ---
 
-## 🚀 Proyectos Destacados
+# 🚀 Proyectos Destacados
 
-# Observatorio Analítico del Turismo en Colombia 🇨🇴
+### Observatorio Analítico del Turismo en Colombia 🇨🇴
 
 Este repositorio contiene el pipeline de desarrollo y análisis para la construcción de la base de datos maestra del sector turístico en Colombia, integrando fuentes oficiales (MinCIT, DANE, Banco de la República, Migración Colombia y Datos.gov.co).
 
