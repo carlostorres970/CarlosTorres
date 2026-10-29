@@ -19,9 +19,12 @@ Un proyecto enfocado en auditar, limpiar y estructurar bases de datos masivas de
   * **Etapa 1 (Preprocesamiento y Limpieza):** [Ver Código en GitHub](#) *(Tratamiento avanzado de nulos según lógica de negocio, detección y manejo de outliers con el rango intercuartílico - IQR, y estandarización de variables categóricas).*
   * **Etapa 2 (Análisis Exploratorio y Visualización):** *(En desarrollo)*
 
-### 2. 📊 [Nombre de tu Segundo Proyecto]
-* **Descripción:** [Breve descripción del problema de ingeniería/negocio que resuelve tu segundo proyecto y qué herramientas utilizas].
-* **Enlace:** [Ver proyecto](#)
+### 2. 👟 Extracción Automatizada de Datos vía API (E-commerce)
+Extracción masiva y estructuración automatizada de datos de productos (precios, tallas, marcas y enlaces) desde una tienda virtual construida sobre la plataforma **VTEX** mediante peticiones HTTP y manejo de formato JSON.
+
+* **🎯 ¿Qué problema resuelve?:** Automatiza la recolección de información de catálogos web sin depender de scraping frágil de HTML, implementando paginación eficiente de bloques y optimizando el tiempo de extracción al evitar múltiples saltos por producto.
+* **⚙️ Tecnologías y librerías:** `Python`, `Requests` (para consumo de APIs), `Pandas`, `JSON`.
+* **📁 Enlace al código:** [Ver Notebook en GitHub](#)
 
 ---
 
